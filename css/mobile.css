@@ -1,12 +1,24 @@
 @media only screen and (max-width: 550px) {
 
     .page-container{
-        padding: 50px 20px 20px 20px;
-        background-color:rgba(0, 0, 0, 0.616);
+        padding: 20px 20px 20px 20px;
+        margin: 20px 20px 20px 20px;
+        background-color:var(--yellow);
+    }
+    h1{
+        font-size: 40px;
     }
     h2{
-        font-size: 65px;
+        font-size: 25px;
     }
+    h3{
+        font-size:20px;
+    }
+
+    .title-img{
+        width:70%;
+    }
+
     .column, .col-3{
         width: 100%;
         float:none;

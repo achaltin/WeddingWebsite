@@ -64,6 +64,23 @@ h3{
     color: var(--dark-purple); 
 }
 
+
+a.btn{
+    background: var(--pink); 
+    color: var(--dark-purple); 
+    font-family: 'Oswald',sans-serif;
+    font-size:30px;
+    padding: 8px 12px; 
+    border: 0px; 
+    -webkit-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;
+    -moz-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;
+    box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;
+    border-radius: 4px; 
+    text-decoration: none; 
+    display: inline-block;
+    margin: 8px 20px;
+}
+
 .title-img{
     display: block;
     margin-left: auto;
