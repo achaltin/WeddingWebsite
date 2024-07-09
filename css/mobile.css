@@ -19,7 +19,7 @@
         width:70%;
     }
 
-    .column, .col-3{
+    .column, .col-3, .center-img{
         width: 100%;
         float:none;
     }
