@@ -103,6 +103,13 @@ a.btn{
     width:80%
 }
 
+.caption{
+    font-family: 'Merriweather',serif;
+    font-size: 14px;
+    color: var(--pink);
+    text-align: center;
+}
+
 .center-text{
     text-align: center;
 }
@@ -110,6 +117,7 @@ a.btn{
 .column{
     width:48%;
     padding:5px;
+    float:left;
 }
 
 .col-3{
