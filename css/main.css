@@ -35,7 +35,7 @@ footer{
 }
 
 a,p,ul,li,tr,td{
-    font-family:'Merriweather', sans-serif;
+    font-family:'Merriweather', serif;
     color:var(--dark-purple);
 }
 table{
@@ -54,12 +54,12 @@ h1{
     color: var(--dark-purple);
 }
 h2{
-    font-family: 'Merriweather', sans-serif;
+    font-family: 'Merriweather', serif;
     font-size: 40px;
     color: var(--dark-purple); 
 }
 h3{
-    font-family: 'Merriweather', sans-serif;
+    font-family: 'Merriweather', serif;
     font-size: 25px;
     color: var(--dark-purple); 
 }
@@ -67,8 +67,8 @@ h3{
 
 a.btn{
     background: var(--blue); 
-    color: var(--dark-purple); 
-    font-family: 'Merriweather',sans-serif;
+    color: var(--purple); 
+    font-family: 'Merriweather',serif;
     font-size:25px;
     padding: 8px 12px; 
     border: 0px; 

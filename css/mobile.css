@@ -24,6 +24,15 @@
         float:none;
     }
 
+    .horizontal li{
+        float: none;  
+        text-align: center;      
+    }
+
+    a.btn{
+        width:80%;
+    }
+
     footer{
         position: relative;
     }
